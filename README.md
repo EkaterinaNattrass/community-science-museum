@@ -1,23 +1,49 @@
 # Community Science Museum
 
-A website for a new interactive science museum as a course assignment for HTML and CSS Module, Front-End Development at Noroff.
+<img src="museum.png"></img>
 
-## Description
-
-The project comprises two parts, firstly prototyping in Figma and secondarily building a static website using HTML and CSS. 
-
-The logo and product images were supplied by [Noroff](https://www.noroff.no/) and by content from [Unsplash](https://unsplash.com/).
-
-All the icons are taken form [Fontawesome](https://fontawesome.com/).
+A website for a local science museum which has various exhibition spaces which it strives to make as much fun as possible. The website is directed at both children interested in science and families looking for a place to spend their time together while learning something new. A project for Front-End Development course at Noroff.
 
 ## Website
 
-[Community Science Museum website](https://glittery-kitten-be132b.netlify.app)
+[Community Science Museum website](https://glittery-kitten-be132b.netlify.app/)
 
-## Figma Project
+## Description
 
-[Community Science Museum Figma prototype](https://www.figma.com/file/givipR0RLUm9dQQgOroRGD/Semester-Project-1?node-id=0%3A1&t=n7KsizN9nHWDQsjI-0)
+The project contains:
 
-## Authors
+- Home page
+- About us page
+- Spaces page (exhibition spaces at the museum)
+- Events page (current events and exhibitions)
+- Schools page (special events organised for schools and kindergartens)
+- Cafe page
+- Tickets page 
 
-Ekaterina Nattrass
+
+## Tech Stack
+
+The project was built with:
+
+- HTML 5
+- CSS
+
+## Getting started
+
+### Installing
+
+1. Clone the repo:
+
+`git@github.com:EkaterinaNattrass/community-science-museum.git`
+
+### Running
+
+The project contains only static files, you can find the index page at `index.html`
+
+### Contributing
+
+This is an educational portfolio project, therefore contributions are not really applicable but feedback is always welcome.
+
+## Contact
+
+cattiva2012@gmail.com
