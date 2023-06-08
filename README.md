@@ -1,6 +1,6 @@
 # Community Science Museum
 
-<img src="museum.png"></img>
+<img src="Museum.png"></img>
 
 A website for a local science museum which has various exhibition spaces which it strives to make as much fun as possible. The website is directed at both children interested in science and families looking for a place to spend their time together while learning something new. A project for Front-End Development course at Noroff.
 
